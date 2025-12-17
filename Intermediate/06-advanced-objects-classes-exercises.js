@@ -1,8 +1,3 @@
-/*
-Clase 38 - Objetos y clases avanzados
-Vídeo: https://youtu.be/iJvLAZ8MJ2E?t=11832
-*/
-
 // 1. Agregega una función al prototipo de un objeto
 
 // 2. Crea un objeto que herede de otro
