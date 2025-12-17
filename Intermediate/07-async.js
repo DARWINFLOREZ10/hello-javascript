@@ -1,8 +1,3 @@
-/*
-Clases 39 a 44 - Asincronía
-Vídeo: https://youtu.be/iJvLAZ8MJ2E?t=11890
-*/
-
 // Programación asíncrona
 
 // Código síncrono
