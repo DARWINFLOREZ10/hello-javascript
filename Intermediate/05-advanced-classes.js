@@ -1,8 +1,3 @@
-/*
-Clases 29 a 37 - Objetos y clases avanzados
-Vídeo: https://youtu.be/iJvLAZ8MJ2E?t=9096
-*/
-
 // Clases avanzadas
 
 class Person {
