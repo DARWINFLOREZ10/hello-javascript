@@ -1,8 +1,3 @@
-/*
-Clase 71 - DOM
-Vídeo: https://youtu.be/iJvLAZ8MJ2E?t=23010
-*/
-
 // 1. Crea un elemento (por ejemplo, un <h1 id="title">) y cambia su contenido a "¡Hola Mundo!"" al cargar la página
 
 // 2. Inserta una imagen con id="myImage" y cambia su atributo src a otra URL
