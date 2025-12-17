@@ -1,8 +1,3 @@
-/*
-Clase 12 - Funciones avanzadas
-Vídeo: https://youtu.be/iJvLAZ8MJ2E?t=4112
-*/
-
 // 1. Crea una función que retorne a otra función
 
 // 2. Implementa una función currificada que multiplique 3 números
