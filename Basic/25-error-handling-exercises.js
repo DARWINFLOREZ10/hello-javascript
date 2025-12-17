@@ -1,8 +1,3 @@
-/*
-Clase 41 - Ejercicios: Manejo de errores
-Vídeo: https://youtu.be/1glVfFxj8a4?t=20392
-*/
-
 // 1. Captura una excepción utilizando try-catch
 
 // 2. Captura una excepción utilizando try-catch y finally
