@@ -1,8 +1,3 @@
-/*
-Clase 45 - Asincronía
-Vídeo: https://youtu.be/iJvLAZ8MJ2E?t=14558
-*/
-
 // 1. Crea una función para saludar que reciba un nombre y un callback. 
 //    El callback debe ejecutarse después de 2 segundos y mostrar en consola "Hola, [nombre]".
 
