@@ -1,8 +1,3 @@
-/*
-Clase 79 - Regex
-Vídeo: https://youtu.be/iJvLAZ8MJ2E?t=25888
-*/
-
 // 1. Crea una RegEx que valide correos electrónicos
 
 // 2. Crea una RegEx obtenga Hashtags de un Texto
