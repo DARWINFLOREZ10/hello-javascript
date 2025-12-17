@@ -1,8 +1,3 @@
-/*
-Clase 20 - Ejercicios: Operadores
-Vídeo: https://youtu.be/1glVfFxj8a4?t=6458
-*/
-
 // 1. Crea una variable para cada operación aritmética
 
 // 2. Crea una variable para cada tipo de operación de asignación,
