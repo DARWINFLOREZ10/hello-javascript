@@ -1,8 +1,3 @@
-/*
-Clases 46 a 59 - APIs
-Vídeo: https://youtu.be/iJvLAZ8MJ2E?t=14777
-*/
-
 // Manejo de APIs
 
 // - APIs REST (HTTP + URLs + JSON)
