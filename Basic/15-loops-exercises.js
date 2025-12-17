@@ -1,8 +1,3 @@
-/*
-Clase 30 - Ejercicios: Bucles
-Vídeo: https://youtu.be/1glVfFxj8a4?t=12732
-*/
-
 // NOTA: Explora diferentes sintaxis de bucles para resolver los ejercicios
 
 // 1. Crea un bucle que imprima los números del 1 al 20
