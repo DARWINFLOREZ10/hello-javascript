@@ -1,8 +1,3 @@
-/*
-Clases 61 a 68 - DOM
-Vídeo: https://youtu.be/iJvLAZ8MJ2E?t=18822
-*/
-
 // Manejo del DOM (Document Object Model)
 
 console.log(document)
