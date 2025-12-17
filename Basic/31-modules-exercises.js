@@ -1,8 +1,3 @@
-/*
-Clase 45 - Ejercicios: Módulos
-Vídeo: https://youtu.be/1glVfFxj8a4?t=22720
-*/
-
 // 1. Exporta una función
 
 // 2. Exporta una constante
