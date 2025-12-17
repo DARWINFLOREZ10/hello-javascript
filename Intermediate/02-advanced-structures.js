@@ -1,8 +1,3 @@
-/*
-Clases 13 a 22 - Estructuras avanzadas
-Vídeo: https://youtu.be/iJvLAZ8MJ2E?t=4355
-*/
-
 // Arrays avanzados
 
 // - Métodos funcionales
