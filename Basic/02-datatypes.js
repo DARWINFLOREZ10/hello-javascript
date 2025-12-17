@@ -1,8 +1,3 @@
-/*
-Clase 17 - Tipos de datos
-Vídeo: https://youtu.be/1glVfFxj8a4?t=3599
-*/
-
 // Tipos de datos primitivos
 
 // Cadenas de texto (string)
