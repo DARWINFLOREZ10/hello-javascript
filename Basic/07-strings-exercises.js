@@ -1,8 +1,3 @@
-/*
-Clase 22 - Ejercicios: Strings
-Vídeo: https://youtu.be/1glVfFxj8a4?t=7226
-*/
-
 // 1. Concatena dos cadenas de texto
 
 // 2. Muestra la longitud de una cadena de texto
