@@ -1,8 +1,3 @@
-/*
-Clases 24 a 28 - Objetos y clases avanzados
-Vídeo: https://youtu.be/iJvLAZ8MJ2E?t=7639
-*/
-
 // Objetos avanzados
 
 // - Prototipos y Herencia
