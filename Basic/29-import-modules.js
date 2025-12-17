@@ -1,8 +1,3 @@
-/*
-Clase 44 - Módulos
-Vídeo: https://youtu.be/1glVfFxj8a4?t=21480
-*/
-
 // Importación de módulos
 
 import { add, PI, name, Circle } from "./28-export-modules.js"
