@@ -1,8 +1,3 @@
-/*
-Clase 21 - Strings
-Vídeo: https://youtu.be/1glVfFxj8a4?t=6565
-*/
-
 // Strings (cadenas de texto)
 
 // Concatenación
