@@ -1,8 +1,3 @@
-/*
-Clase 18 - Ejercicios: primeros pasos
-Vídeo: https://youtu.be/1glVfFxj8a4?t=4733
-*/
-
 // 1. Escribe un comentario en una línea
 
 // 2. Escribe un comentario en varias líneas
