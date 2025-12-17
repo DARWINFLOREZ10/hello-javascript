@@ -1,8 +1,3 @@
-/*
-Clase 42 - Console
-Vídeo: https://youtu.be/1glVfFxj8a4?t=20444
-*/
-
 // Console
 
 // log
