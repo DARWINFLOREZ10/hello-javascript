@@ -1,8 +1,3 @@
-/*
-Clase 70 - DOM
-Vídeo: https://youtu.be/iJvLAZ8MJ2E?t=22342
-*/
-
 const text = document.getElementById("text")
 const button = document.getElementById("button")
 const list = document.getElementById("list")
