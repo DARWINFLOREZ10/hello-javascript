@@ -1,8 +1,3 @@
-/*
-Clase 25 - Arrays
-Vídeo: https://youtu.be/1glVfFxj8a4?t=8741
-*/
-
 // Array
 
 // Declaración
