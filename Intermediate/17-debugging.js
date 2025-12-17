@@ -1,8 +1,3 @@
-/*
-Clases 72 a 73 - Depuración
-Vídeo: https://youtu.be/iJvLAZ8MJ2E?t=23085
-*/
-
 // Depuración
 
 // console.log() (básico)
