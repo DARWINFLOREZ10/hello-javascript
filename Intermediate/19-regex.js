@@ -1,8 +1,3 @@
-/*
-Clases 75 a 78 - Regex
-Vídeo: https://youtu.be/iJvLAZ8MJ2E?t=24363
-*/
-
 // Expresiones regulares
 
 // - Sintaxis
