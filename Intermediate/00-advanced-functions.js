@@ -1,8 +1,3 @@
-/*
-Clases 2 a 11 - Funciones avanzadas
-Vídeo: https://youtu.be/iJvLAZ8MJ2E?t=346
-*/
-
 // Ciudadanos de primera clase
 
 const greet = function (name) {
