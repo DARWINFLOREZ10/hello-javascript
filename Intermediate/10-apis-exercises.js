@@ -1,8 +1,3 @@
-/*
-Clase 60 - APIs
-Vídeo: https://youtu.be/iJvLAZ8MJ2E?t=18710
-*/
-
 // 1. Realiza una petición GET con fetch() a JSONPlaceholder y muestra en la consola la lista de publicaciones
 
 // 2. Modifica el ejercicio anterior para que verifique si la respuesta es correcta usando response.ok. Si no lo es, lanza y muestra un error
